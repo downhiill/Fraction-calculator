@@ -1,0 +1,51 @@
+C:\Users\manym\Desktop\Calculator\Fraction calculator\Fraction calculator\bin\Debug\Fraction calculator.exe.config
+C:\Users\manym\Desktop\Calculator\Fraction calculator\Fraction calculator\bin\Debug\Fraction calculator.exe
+C:\Users\manym\Desktop\Calculator\Fraction calculator\Fraction calculator\bin\Debug\Fraction calculator.pdb
+C:\Users\manym\Desktop\Calculator\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.csprojAssemblyReference.cache
+C:\Users\manym\Desktop\Calculator\Fraction calculator\Fraction calculator\obj\Debug\Fraction_calculator.Form1.resources
+C:\Users\manym\Desktop\Calculator\Fraction calculator\Fraction calculator\obj\Debug\Fraction_calculator.Properties.Resources.resources
+C:\Users\manym\Desktop\Calculator\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.csproj.GenerateResource.cache
+C:\Users\manym\Desktop\Calculator\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.exe
+C:\Users\manym\Desktop\Calculator\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.pdb
+C:\Users\manym\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.csprojAssemblyReference.cache
+C:\Users\manym\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction_calculator.Form1.resources
+C:\Users\manym\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction_calculator.Properties.Resources.resources
+C:\Users\manym\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.csproj.GenerateResource.cache
+C:\Users\manym\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.exe
+C:\Users\manym\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.pdb
+C:\Users\manym\Desktop\Fraction calculator\Fraction calculator\bin\Debug\Fraction calculator.exe.config
+C:\Users\manym\Desktop\Fraction calculator\Fraction calculator\bin\Debug\Fraction calculator.exe
+C:\Users\manym\Desktop\Fraction calculator\Fraction calculator\bin\Debug\Fraction calculator.pdb
+C:\Users\Dmitriy\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.csprojAssemblyReference.cache
+C:\Users\Dmitriy\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction_calculator.Form1.resources
+C:\Users\Dmitriy\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction_calculator.Properties.Resources.resources
+C:\Users\Dmitriy\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.csproj.GenerateResource.cache
+C:\Users\Dmitriy\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.exe
+C:\Users\Dmitriy\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.pdb
+C:\Users\Dmitriy\Desktop\Fraction calculator\Fraction calculator\bin\Debug\Fraction calculator.exe.config
+C:\Users\Dmitriy\Desktop\Fraction calculator\Fraction calculator\bin\Debug\Fraction calculator.exe
+C:\Users\Dmitriy\Desktop\Fraction calculator\Fraction calculator\bin\Debug\Fraction calculator.pdb
+C:\Users\make0ver\Desktop\Fraction calculator\Fraction calculator\bin\Debug\Fraction calculator.exe.config
+C:\Users\make0ver\Desktop\Fraction calculator\Fraction calculator\bin\Debug\Fraction calculator.exe
+C:\Users\make0ver\Desktop\Fraction calculator\Fraction calculator\bin\Debug\Fraction calculator.pdb
+C:\Users\make0ver\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.csproj.AssemblyReference.cache
+C:\Users\make0ver\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\make0ver\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction_calculator.Properties.Resources.resources
+C:\Users\make0ver\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.csproj.GenerateResource.cache
+C:\Users\make0ver\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.csproj.CoreCompileInputs.cache
+C:\Users\make0ver\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.exe
+C:\Users\make0ver\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.pdb
+C:\Users\make0ver\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction_calculator.Calculator.resources
+C:\Users\make0ver\Desktop\Курсач\Fraction calculator\Fraction calculator\bin\Debug\Fraction calculator.exe.config
+C:\Users\make0ver\Desktop\Курсач\Fraction calculator\Fraction calculator\bin\Debug\Fraction calculator.exe
+C:\Users\make0ver\Desktop\Курсач\Fraction calculator\Fraction calculator\bin\Debug\Fraction calculator.pdb
+C:\Users\make0ver\Desktop\Курсач\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.csproj.AssemblyReference.cache
+C:\Users\make0ver\Desktop\Курсач\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\make0ver\Desktop\Курсач\Fraction calculator\Fraction calculator\obj\Debug\Fraction_calculator.Calculator.resources
+C:\Users\make0ver\Desktop\Курсач\Fraction calculator\Fraction calculator\obj\Debug\Fraction_calculator.Properties.Resources.resources
+C:\Users\make0ver\Desktop\Курсач\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.csproj.GenerateResource.cache
+C:\Users\make0ver\Desktop\Курсач\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.csproj.CoreCompileInputs.cache
+C:\Users\make0ver\Desktop\Курсач\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.exe
+C:\Users\make0ver\Desktop\Курсач\Fraction calculator\Fraction calculator\obj\Debug\Fraction calculator.pdb
+C:\Users\make0ver\Desktop\Курсач\Fraction calculator\Fraction calculator\obj\Debug\Fraction_calculator.Formpravila.resources
+C:\Users\make0ver\Desktop\Fraction calculator\Fraction calculator\obj\Debug\Fraction_calculator.Formpravila.resources
